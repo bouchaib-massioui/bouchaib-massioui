@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bouchaib-massioui
-- 👀 I’m interested in Software Engineering using Microsoft Stack such us .NET and Azure.
-
+- 👀 I build and deliver high-quality and high-performance entreprise solutions using Microsoft stack such as .NET and Azure services.
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bouchaib-massioui&show_icons=true&theme=dark" alt="ardalis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bouchaib-massioui&show_icons=true&theme=dark" alt="bouchaib-massioui" />
 <div/>
 <br />
   
